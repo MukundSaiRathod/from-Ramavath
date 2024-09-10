@@ -32,3 +32,8 @@ Hyderabad is renowned for its vibrant culinary scene, offering a delightful arra
 | Bawarchi| Known for it's home style biryani. | RTC Cross Road, Hyderabad|
 | Hameedi Confectioners|known for it's traditional Hyderabadi desserts| Moazzam Jahi Market, Hyderabad|
 
+-------
+### Quote Section
+> "I didn’t fail the test. I just found 100 ways to do it wrong." — *Benjamin Franklin* <br>
+> "If you think nobody cares if you’re alive, try missing a couple of payments." — *Earl Wilson*
+
