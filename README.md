@@ -37,3 +37,19 @@ Hyderabad is renowned for its vibrant culinary scene, offering a delightful arra
 > "I didn’t fail the test. I just found 100 ways to do it wrong." — *Benjamin Franklin* <br>
 > "If you think nobody cares if you’re alive, try missing a couple of payments." — *Earl Wilson*
 
+-----
+
+### How to use Promise.all in JavaScript
+
+Tags: javascript, promise <br>
+
+Aggregates results from an array of promises as an input and gets resolved when all the promises get resolved or any of them gets rejected.
+```
+Promise.all([ promise_1, promise_2 ]).then((values) => {
+    // all input Promises resolved
+}).catch((reason) => {
+    // one of input Promises rejected
+});
+
+```
+ Snippet Source : <https://code.pieces.app/collections/javascript>
